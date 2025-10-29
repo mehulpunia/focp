@@ -20,9 +20,4 @@ int main()
 
     }
     printf("\nsum lower triangular:%d",sum);
-    
-
-
-
-
 }
